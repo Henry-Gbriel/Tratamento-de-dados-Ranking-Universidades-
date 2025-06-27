@@ -49,10 +49,6 @@ O dashboard desenvolvido no Power BI oferece uma visão interativa dos rankings 
 
 ![DashboardUnive](https://github.com/user-attachments/assets/f387896b-8dc4-4521-b044-bcafaefa6448)
 
-
-
-
-
 ## Como Utilizar o Projeto
 
 Para replicar ou estender este projeto, siga os passos:
@@ -63,6 +59,12 @@ Para replicar ou estender este projeto, siga os passos:
 4.  **Power BI**: Abra o arquivo do Power BI (não incluído neste repositório, mas o dashboard final é representado pela imagem) para explorar as visualizações interativas.
 5.  **PowerPoint**: Utilize o template de apresentação (representado pela imagem) para criar suas próprias apresentações.
 
+## Arquivos para Download
+CSV Inicial: Uploading World University Rankings.csv…
+
+CSV Finalizado: Uploading universidade_final.csv…
+
+Excel Finalizado: universidade_final.xlsx
 
 <h2>📄 Licença</h2>
 <p>Este projeto está licenciado sob a <a href="LICENSE">MIT License</a>.</p>
