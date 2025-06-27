@@ -52,7 +52,7 @@ Para replicar ou estender este projeto, siga os passos:
 
 1.  **Clone o Repositório**: Faça um clone deste repositório para sua máquina local.
 2.  **Dados**: O arquivo `WorldUniversityRankings.csv` (original do Kaggle) e os arquivos `universidade_final.csv` e `universidade_final.xlsx` (dados limpos e processados) estão incluídos.
-3.  **Ambiente Python**: Certifique-se de ter Python instalado e as bibliotecas `pandas`, `openpyxl` e `deep-translator` (ou `GoogleTranslator`) instaladas. O código de limpeza está disponível em `pasted_content.txt`.
+3.  **Ambiente Python**: Certifique-se de ter Python instalado e as bibliotecas `pandas`, `openpyxl` e `deep-translator` (ou `GoogleTranslator`) instaladas.
 4.  **Power BI**: Abra o arquivo do Power BI (não incluído neste repositório, mas o dashboard final é representado pela imagem) para explorar as visualizações interativas.
 5.  **PowerPoint**: Utilize o template de apresentação (representado pela imagem) para criar suas próprias apresentações.
 
