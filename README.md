@@ -32,6 +32,12 @@ O fluxo de trabalho do projeto segue as seguintes etapas:
 
 ## Resultados
 
+### Template de Apresentação (PowerPoint)
+
+Um template de apresentação foi criado no PowerPoint para facilitar a comunicação dos insights e conclusões obtidos a partir da análise dos dados assim sendo exportado para o Power BI.
+
+![Template](https://github.com/user-attachments/assets/2f3761c4-88fa-435c-9fed-9b1080912602)
+
 ### Dashboard Interativo (Power BI)
 
 O dashboard desenvolvido no Power BI oferece uma visão interativa dos rankings universitários, permitindo explorar dados como total de universidades, média de pontuação, quantidade de alunos estrangeiros, desempenho por instituição e distribuição geográfica.
@@ -39,11 +45,7 @@ O dashboard desenvolvido no Power BI oferece uma visão interativa dos rankings 
 ![DashboardUnive](https://github.com/user-attachments/assets/f387896b-8dc4-4521-b044-bcafaefa6448)
 
 
-### Template de Apresentação (PowerPoint)
 
-Um template de apresentação foi criado no PowerPoint para facilitar a comunicação dos insights e conclusões obtidos a partir da análise dos dados.
-
-![Template](https://github.com/user-attachments/assets/2f3761c4-88fa-435c-9fed-9b1080912602)
 
 
 ## Como Utilizar o Projeto
