@@ -32,6 +32,11 @@ O fluxo de trabalho do projeto segue as seguintes etapas:
 
 ## Resultados
 
+### Excel Finalizado (.xlsx)
+Além da limpeza e organização dos dados, os arquivos CSV foram convertidos para o formato .xlsx, proporcionando uma visualização mais clara e facilitando futuras modificações e análises.
+
+![excel_limpo](https://github.com/user-attachments/assets/f224dbec-5359-460a-833c-90cab32d484a)
+
 ### Template de Apresentação (PowerPoint)
 
 Um template de apresentação foi criado no PowerPoint para facilitar a comunicação dos insights e conclusões obtidos a partir da análise dos dados assim sendo exportado para o Power BI.
